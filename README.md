@@ -1,57 +1,21 @@
-## Low Level and Backend Developer 
-<!-- <img SRC='https://img.shields.io/static/v1?label=app&message=VS Code&color=lightblue' /> <img SRC='https://img.shields.io/static/v1?label=app&message=GitHub&color=darkgrey' /> <img SRC='https://img.shields.io/static/v1?label=app&message=MS Edge&color=green' />
+Bikini Bottom buzzes with excitement as SpongeBob SquarePants, the beloved fry cook at the Krusty Krab, prepares for the annual Bikini Bottom Festival. The underwater city is abuzz with chatter about the festival's festivities and, more importantly, the rumored appearance of a legendary artifact, "The Squid's Medallion," said to grant immense power to its possessor.
 
-<img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' /> <img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' /> <img SRC='https://img.shields.io/static/v1?label=language&message=CPP&color=darkblue' /> <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
+In the depths of Bikini Bottom, a playful yet powerful underwater mafia, led by SpongeBob, navigates a whimsical world of alliances and camaraderie. SpongeBob, akin to a benevolent Don, leads with his optimistic charm, while Squidward, his serious consigliere, manages the delicate underwater affairs.
 
-<img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' /> <img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
--->
+Enter Patrick, the loyal yet bumbling enforcer, who inadvertently triggers chaos when he discovers an ancient "Skibidi Toilet" artifact while trying to fix a plumbing issue at the Krusty Krab.
 
+Meanwhile, Bon Scott, the singing sensation from Rock Bottom, dazzles the festival crowd with an electrifying performance. His music echoes through the ocean, drawing attention from all corners of Bikini Bottom.
 
-[![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+Amidst the festivities, an unexpected guest arrives—a mysterious deep-sea explorer, Russell Crowe, seeking a legendary artifact for his underwater adventure. His arrival adds an air of intensity and curiosity to the festival.
 
+Intrigue heightens as Josef Stalin, a caricatured version of the historical figure, arrives as a visiting dignitary from a distant underwater nation. His serious demeanor clashes with the carefree spirit of Bikini Bottom, causing ripples of unease among the residents.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true&theme=merko" />
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics" width="400">
-</picture>
+Tensions escalate when Jeff Bezos, the shrewd entrepreneur from a neighboring town, attempts to strike a deal with SpongeBob's underwater "business empire," eyeing the Squid's Medallion for its rumored powers.
 
-![image](https://user-images.githubusercontent.com/116349156/226586811-3eb27ad4-0483-4135-9144-fe44d7bdd621.png)
+Amidst misunderstandings, humorous encounters, and a series of mishaps involving the Skibidi Toilet, the festival turns chaotic. Squidward navigates the delicate balance of maintaining order as Patrick's antics threaten to derail everything.
 
-## About
-- 🖨️ Compiler: `gcc || tcc`
-- 📝 Text editors: `Neovim, VSCode`
-- 🧑‍💻 OS: `Debian 12 with KDE Plasma`
-- 🐚 Shell: `Bash`
-- ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
-- 🛠️ Working on: [`NerdOS`](http://GitHub.com/spartanproj/os) `an 8-bit CPU`
-- ✨ You should try: `Logisim Evolution`
-- 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
-- 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
-- 😠 I don't like: `[Javascript, Java]`
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,py,v,bash,powershell,cpp&theme=dark)](https://skillicons.dev)
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,neovim,vim,svg&theme=dark)](https://skillicons.dev)
-### Hardware
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
-### Websites
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,flask,jquery,replit&theme=dark)](https://skillicons.dev)
-### New stuff I want to learn but keep procrastinating
-[![My Skills](https://skillicons.dev/icons?i=zig,nim&theme=dark)](https://skillicons.dev)
+As the festival reaches its peak, alliances shift, and secrets unravel. The fate of the Squid's Medallion hangs in the balance as Bikini Bottom plunges into an uproarious adventure involving unlikely friendships, comical negotiations, and a revelation that changes everything.
 
-<!---
-werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can
---->
-![image](https://user-images.githubusercontent.com/116349156/226586052-b12b97cd-a14f-43ce-8d8e-48e879384a26.png)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&quote=What%20one%20programmer%20can%20do%20in%20one%20month,%20two%20programmers%20can%20do%20in%20two%20months\.&author=Fred%20Brooks)](https://github.com/piyushsuthar/github-readme-quotes)
-## Riddle me this
-- Which word is encoded in this character snippet? 
-- d„0
-
-<div style="justify-content:center">
-<img src="https://profile-counter.glitch.me/werdl/count.svg" />
-</div>
+In the end, amidst the laughter and chaos, Bikini Bottom discovers that true power lies not in artifacts or deals, but in the bonds of friendship and the joy of shared adventures in their wacky underwater world.
 
 
